@@ -1,3 +1,3 @@
-# GO-IT-HTML-ZAD1
+# goit-html-hw1
 
 Purpose of the task was creating based HTML files based on the templated in figma. 
